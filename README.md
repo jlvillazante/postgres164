@@ -16,7 +16,7 @@ Este repositorio contiene un entorno de desarrollo preconfigurado usando Docker 
 
 ```bash
 git clone https://github.com/jlvillazante/postgres164
-cd mi-proyecto-docker
+cd postgres164
 ```
 
 ### 2. Configurar variables de entorno
